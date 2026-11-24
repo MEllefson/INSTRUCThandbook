@@ -1,0 +1,36 @@
+# Technical Logistics
+  
+When you first start working with Hale/Michelle, you should have access to the following. Do check to make sure that your access is working and notify them during INSTRUCT meetings if there are any problems.  
+  
+## INSTRUCT Microsoft Teams® Channel  
+The INSTRUCT channel on Microsoft Teams® includes a variety of useful bits of information – including:  
+* INSTRUCT announcements and emails.  
+* Links to INSTRUCT publications list and the INSTRUCT online calendar.  
+* Information related to INSTRUCT meetings and agendas.  
+* Links to various resources – including things like ethics, statistics, open science, general writing advice, advice about preparing posters/presentations, and more.  
+* Specific links to online courses to help you learn R studio (note – there are some courses offered by the university through the SSHRMP, the MRC Biostatistics Unit, or Cambridge Colleges; see Building Your Support Networks in this handbook for more info).  
+* If you come across a resource that you think should be added – please do share it.  
+  
+## Your Private Teams® Channel  
+Hale/Michelle will create a private Teams® channel for your supervision work. All information that you share with her should be shared here.  
+* Items that you submit during your supervisions should be shared using the Kanban cards on your private Teams® channel.  
+* Any other uploads will show up under your Files menu (at the top of your private Teams® channel).  
+* Please keep the items in your Files organised and follow the INSTRUCT Common File Naming (see the Common File Naming section for instructions). This helps facilitate collaborative working.  
+* Even though this site is secure, it is very important that any documents you store in Files or on your Kanban cards are de-identified. Be sure follow all GDPR legislation related to storing any sensitive data.  
+  
+## INSTRUCT Website  
+* Website: https://sites.google.com/site/instructlab. 
+* A terrific way to boost your emerging research career is to have a web presence; having a web presence with an existing research group can have benefits beyond regular social networking.  
+* All INSTRUCT researchers should post a bio and photos to the site.  
+o	https://sites.google.com/site/instructlab/people  
+o	Once ready, send yours to Hale and she will post it to the site.  
+* We also keep an updated list of publications and dissemination of all members of the group that occur during your time with INSTRUCT (or are a result of your time with us). Please regularly update it with your work/outputs.  
+  
+## Access Michelle’s Diary  
+
+Michelle’s diary is kept on Outlook Calendar and is shared through the University’s agreement (you can see her availability with Outlook Scheduling Assistant). Please note – by default you will have a read-only version showing busy/free times. However, you can ask Michelle to grant you read only access to see the details of her diary.  
+  
+Over the years, Michelle has found that the more transparent she is with students about her work the more positively our professional relationships develop. For example, if you can see that Michelle has day full of appointments, then a delayed response is not surprising.  
+  
+Michelle tries to include as much detail in her diary as possible, but sometimes she doesn’t block out time in her diary for specific tasks. Do not assume that a blank space in her diary means that she is doing nothing. Every item in her diary requires preparation (e.g., lectures, reading and providing feedback on your written work before a supervision). Some work that she does can remain hidden because she hasn’t blocked out specific time to do it (e.g., examining / marking, research work etc.). She uses this strategy to have flexibility to fit things around meetings and impending deadlines.  
+  
